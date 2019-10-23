@@ -4,7 +4,6 @@ GitHub repository containing teaching material. Slides for each class are stored
 
 * [Alignment](/Alignment/). A brief introduction to string matching algorithms for genomic alignments.
 
-
 ## Acknowledgements
 
 I am personally grateful to Ben Lagmead. More informations on his JHU computational genomic class are available [here](https://github.com/BenLangmead/comp-genomics-class).

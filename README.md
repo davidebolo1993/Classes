@@ -6,4 +6,4 @@ GitHub repository containing teaching material. Slides for each class are stored
 
 ## Acknowledgements
 
-I am personally grateful to Ben Lagmead. More informations on his JHU computational genomic class are available [here](https://github.com/BenLangmead/comp-genomics-class).
+I am grateful to Ben Lagmead. More informations on his JHU computational genomic class are available [here](https://github.com/BenLangmead/comp-genomics-class).
